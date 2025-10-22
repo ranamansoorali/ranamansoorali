@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Senior Software Engineer with expertise in developing robust, scalable, and efficient software solutions. Over the years, I have honed my mobile and web application development skills, leveraging various technologies to create impactful user experiences.<br>
+I'm a Senior Software Engineer with expertise in developing robust, scalable, and efficient software solutions. I've worked with one of the biggest MNCs in the world, including Constellation software, Freestyle solutions and Motive inc. (Formerly known as KeepTruckin inc.) Over the years, I have been building, scaling and securing software solutions. .<br>
 
 
 ## 🌐 Socials:
